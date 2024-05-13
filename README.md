@@ -3,7 +3,7 @@ TunnelTrek
 
 ## Description
 TunnelTrek is an multiplatform (Android + Desktop) indoor navigation system, specializing on tunnels and campus navigation, built on crowd-sourced map data.
-It is intended to be able to support any building or close group of buildings.
+It is intended to be able to support any building or close group of buildings. This repository is a clone of the original GitLab repository used by our hackathon team.
 
 ## Screenshot
 ![image](https://github.com/raytonlin1/TunnelTrekWaterloo/assets/39320843/c4dfa84c-0019-4726-adca-56f670a54b50)
