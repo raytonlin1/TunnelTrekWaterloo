@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803202435163",
+    "project_id": "tunneltrek-e3c70",
+    "storage_bucket": "tunneltrek-e3c70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803202435163:android:e677d6e2e660e0ece1177e",
+        "android_client_info": {
+          "package_name": "org.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfQGeLqdcvflwMuAWJh3NK3tLyYerA5UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+{
+    "size": { "width_meters": 10000, "height_meters": 10000 },
+    "top_left_abs_coords": { "long": 100.0, "lat": 30.0 },
+    "points": [
+        { "coords": { "x": 0.5, "y": 0.5 }, "name": "point 1", "is_place": "true" },
+        { "coords": { "x": 0.3, "y": 0.3 }, "name": "point 2", "is_place": "true" },
+        { "coords": { "x": 0.6, "y": 0.6 }, "name": "point 3", "is_place": "true" },
+        { "coords": { "x": 0.6, "y": 0.4 }, "name": "point 3", "is_place": "true" },
+        { "coords": { "x": 0.4, "y": 0.6 }, "name": "point 3", "is_place": "true" }
+    ],
+    "paths": [
+        { "src_id":  0,
+          "dst_id": 1,
+          "middle_points": [],
+          "directions": []
+        }
+    ]
+}

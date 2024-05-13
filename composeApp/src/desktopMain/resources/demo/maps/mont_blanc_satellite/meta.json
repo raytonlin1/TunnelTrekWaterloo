@@ -1,0 +1,6 @@
+{
+    "name": "Demo Map (Satellite)",
+    "desc": "one of the demo maps included with MapCompose (satellite version)",
+    "id": "mont_blanc_satellite",
+    "tile_info": { "tile_size": 256, "levels": 4, "cols": 16, "rows": 16, "type": "jpg" }
+}

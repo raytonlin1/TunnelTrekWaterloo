@@ -1,0 +1,6 @@
+{
+    "name": "Demo Map (v2)",
+    "desc": "one of the demo maps included with MapCompose",
+    "id": "mont_blanc",
+    "tile_info": { "tile_size": 256, "levels": 4, "cols": 16, "rows": 16, "type": "jpg" }
+}
