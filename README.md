@@ -24,7 +24,7 @@ Release Date: `05-Apr-2024`
 Version: `4.0.0`
 
 Link to installers:
-
+(To download the app, add the installers to the project root and run it from there)
 Windows: https://mega.nz/file/GEtmzZgK#aNhjg24Ofi7vSgb-POG7ZMfWyMUc4Z5WpREOA5aqT7s
 
 Android: https://mega.nz/file/nBtERRiA#Tz37psOG_bTjA11il1YwyLPdD1vfNHGxmzWIsz6K6RA
